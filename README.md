@@ -9,6 +9,16 @@ This repository contains the full-stack implementation of a Smart Home monitorin
 ![hvac](./img/hvac.png)
 ![alarm](./img/alarm.png)
 ![light](./img/light.png)
+<p>
+  <img src="./img/main.png" width="150">
+  <img src="./img/window.png" width="150">
+  <img src="./images/graphs.png" width="150">
+  <img src="./images/power.png" width="150">
+  <img src="./images/gas.png" width="150">
+  <img src="./images/hvac.png" width="150">
+  <img src="./images/alarm.png" width="150">
+  <img src="./images/light.png" width="150">
+</p>
 
 ## Features
 
