@@ -1,23 +1,15 @@
 # SmartHouse MQTT App
 
 This repository contains the full-stack implementation of a Smart Home monitoring and control system. It includes a React Native mobile application, a Python backend for data processing and communication, and Arduino code for hardware interaction. The system uses MQTT for real-time communication between the components.
-![main](./img/main.png)
-![window](./img/window.png)
-![graphs](./img/graphs.png)
-![power](./img/power.png)
-![gas](./img/gas.png)
-![hvac](./img/hvac.png)
-![alarm](./img/alarm.png)
-![light](./img/light.png)
 <p>
-  <img src="./img/main.png" width="150">
-  <img src="./img/window.png" width="150">
-  <img src="./images/graphs.png" width="150">
-  <img src="./images/power.png" width="150">
-  <img src="./images/gas.png" width="150">
-  <img src="./images/hvac.png" width="150">
-  <img src="./images/alarm.png" width="150">
-  <img src="./images/light.png" width="150">
+  <img src="./img/main.png" width="200">
+  <img src="./img/window.png" width="200">
+  <img src="./img/graphs.png" width="200">
+  <img src="./img/power.png" width="200">
+  <img src="./img/gas.png" width="200">
+  <img src="./img/hvac.png" width="200">
+  <img src="./img/alarm.png" width="200">
+  <img src="./img/light.png" width="200">
 </p>
 
 ## Features
