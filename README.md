@@ -1,5 +1,4 @@
 # SmartHouse MQTT App
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/andreitoma59/SmartHouse-MQTT-App)
 
 This repository contains the full-stack implementation of a Smart Home monitoring and control system. It includes a React Native mobile application, a Python backend for data processing and communication, and Arduino code for hardware interaction. The system uses MQTT for real-time communication between the components.
 
